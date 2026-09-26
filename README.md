@@ -28,7 +28,7 @@ fanadesh-master/
   images/
 ```
 
-There is no live deployment linked to this repo yet (GitHub Pages would need to serve the `fanadesh-master/` folder).
+**Live:** https://fadyehabamer.github.io/Fandesh-Website/ (GitHub Pages from `main`; the root `index.html` redirects to `fanadesh-master/`).
 
 ## License
 
